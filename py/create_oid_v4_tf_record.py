@@ -54,6 +54,7 @@ python create_oid_v4_tf_record.py \
         --class_file_path=class-descriptions-boxable.csv \
         --annotaton_file_path=train-annotations-bbox.csv \
         --data_dir=filtered_train_images/aggregated
+
 '''
 
 TARGET_30_CLASSES = ['Toilet', 'Swimming pool', 'Bed', 'Billiard table', 'Sink',
