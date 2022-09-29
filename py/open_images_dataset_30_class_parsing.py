@@ -12,7 +12,7 @@ python open_images_dataset_30_class_parsing.py /
         --class_file_path=class-descriptions-boxable.csv /
         --annotaton_file_path=validation-annotations-bbox.csv /
         --image_folder_path=open_images_validation /
-        --filtered_image_folder_path=filtered_validation_images
+        --filtered_image_folder_path=filtered_validation_images 
 '''
 
 flags.DEFINE_string('class_file_path', 
