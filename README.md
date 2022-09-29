@@ -45,9 +45,9 @@ Directory
 ├── 🎇saved_model
 │   ├── checkpoint
 │   ├── train
-│        ├──  train_log_file
+│        ├──  train_log_file (Used for Tensorboard)
 │   ├── eval
-│        ├──  eval_log_file
+│        ├──  eval_log_file (Used for Tensorboard)
 │
 ├── 🎇 train_tfrecords
 │   ├── oid_30_class_train.record-0000x-of-00005
@@ -63,9 +63,9 @@ Directory
 │
 ├── oid_v4_label_map_amenity_30_class.pbtxt (label id-name mapping files)
 │
-├── class-descriptions-boxable.csv ( Consists of all 'ids' for classes and 'names' {human-readable string format} of Open Image Dataset)
+├── class-descriptions-boxable.csv (Consists of all 'ids' for classes and 'names' {human-readable string format} of Open Image Dataset)
 │
 ├── notebooks
 │   ├── Amenity_Detection.ipynb ( Download arguments & Train)
-│   ├── Evaluation.ipynb ( Validation & Tensorboard)
+│   ├── Evaluation.ipynb (Validation & Tensorboard)
 ```
