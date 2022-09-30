@@ -15,7 +15,7 @@
 
 #### 3️⃣ This performs amenity detection using [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and uses [CenterNet Model](https://arxiv.org/pdf/1904.07850.pdf) when Training and was practiced in Google Colab Labatoray, Clould Based Service.
 
-#### 4️⃣ Moreover, 🎇 means I could not be able to upload here as its' file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Amenity_Detection_Project/blob/main/notebooks/Amenity_Detection.ipynb) where there are links. 
+#### 4️⃣ Moreover, 🎇 means I could not be able to upload here as their file size is toooo big but you would be able to download them in [jupyter notebook](https://github.com/Seongwoong-sk/Amenity_Detection_Project/blob/main/notebooks/Amenity_Detection.ipynb) where there are links. 
 
 -----
 ```
