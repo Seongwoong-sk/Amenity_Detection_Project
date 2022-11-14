@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://miro.medium.com/max/828/1*jhMFMvsBH94z0PCGWv8J6g.png" "Amenity Detection">
+  <img width="700" src="https://miro.medium.com/max/828/1*jhMFMvsBH94z0PCGWv8J6g.png" "Amenity Detection">
 </p>
 
 -----
