@@ -7,7 +7,7 @@
 
 -----
 
-#### You Could Check what I wrote details about this project [HERE](https://seongwoong-sk.github.io/2021-10-04-airbnb-clone-project-amenity-detection/)
+#### You Could Check what I wrote details about this project [HERE](https://velog.io/@dahara3/Airbnb-Amenity-Detection-Clone-Project)
 
 #### 1️⃣ I completed this project last year (2021). This Writing is to reorganize What I had done.
 
